@@ -1,0 +1,147 @@
+{
+	"baseURI" : "play-test.bokus.com",
+	"dito" : [
+		{
+			"username": "splushu",
+			"password": "kokbok2007",
+			"subscription": ""
+		},
+		{
+			"username": "bokusdito@outlook.com",
+			"password": "random1",
+			"subscription": ""
+		},
+		{
+			"username": "bokusditobase@icloud.com",
+			"password": "random1",
+			"subscription": "Bas"
+		},
+		{
+			"username": "bokusditopremium@gmail.com",
+			"password": "random1",
+			"subscription": "Premium"
+		},
+		{
+			"username": "bokusditofamily@yahoo.com",
+			"password": "random1",
+			"subscription": "Familj"
+		}
+	],
+	"user" : [
+		{
+			"username": "jingkvast@aol.com",
+			"password": "Test124",
+			"subscription": "Premium"
+		},
+		{
+			"username": "jing_kvast@icloud.com",
+			"password": "Testar124",
+			"subscription": "Bas"
+		},
+		{
+			"username": "jingkvast@icloud.com",
+			"password": "Test124",
+			"subscription": ""
+		},
+		{
+			"username": "kanzhan.96@icloud.com",
+			"password": "Bengt124",
+			"subscription": "Premium"
+		},
+		{
+			"username": "abjornatest@gmail.com",
+			"password": "Testar124",
+			"subscription": "Bas"
+		},
+		{
+			"username": "jingkvast@gmail.com",
+			"password": "Testar124",
+			"subscription": "Familj"
+		},
+		{
+			"username": "jingkvast96@gmail.com",
+			"password": "Testar124",
+			"subscription": ""
+		},
+		{
+			"username": "jkvast96@gmail.com",
+			"password": "Testar124",
+			"subscription": "Premium"
+		},
+		{
+			"username": "kanzhan.96@gmail.com",
+			"password": "Test124",
+			"subscription": "Premium"
+		},
+		{
+			"username": "kevinzhang_96@gmail.com",
+			"password": "Testar124",
+			"subscription": "Familj"
+		},
+		{
+			"username": "kvastjing@gmail.com",
+			"password": "Test124",
+			"subscription": ""
+		},
+		{
+			"username": "testtestar96@gmail.com",
+			"password": "Test124",
+			"subscription": "Familj"
+		},
+		{
+			"username": "testtestaren123@gmail.com",
+			"password": "Test124",
+			"subscription" : "Familj"
+		},
+		{
+			"username": "jingkvast@outlook.com",
+			"password": "Testar124",
+			"subscription": "Premium"
+		},
+		{
+			"username": "testbas@test.com",
+			"password": "random1",
+			"subscription": "Bas"
+		},
+		{
+			"username": "testbascampaign@test.com",
+			"password": "random1",
+			"subscription": "Bas"
+		},
+		{
+			"username": "testpremium@test.com",
+			"password": "random1",
+			"subscription": "Premium"
+		},
+		{
+			"username": "testpremiumcampaign@test.com",
+			"password": "random1",
+			"subscription": "Premium"
+		},
+		{
+			"username": "testfamilj@test.com",
+			"password": "random1",
+			"subscription": "Familj"
+		},
+		{
+			"username": "testfamiljcampaign@test.com",
+			"password": "random1",
+			"subscription": "Familj"
+		},
+		{
+			"username": "jingkvast@yahoo.com",
+			"password": "Testar124",
+			"subscription": "Bas"
+		},
+		{
+			"username": "testtestar123@yahoo.com",
+			"password": "123456g",
+			"subscription": ""
+		},
+		{
+			"username": "kevinzhang_96@yahoo.se",
+			"password": "Test124",
+			"subscription": "Bas"
+		}
+	]
+}

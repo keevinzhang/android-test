@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestSuite" >
+    <test name="Appium Tests">
+        <classes>
+            <class name="Tests">
+                <methods>
+                    <!-- <include name="testDownloadAndRemoveBook"></include> -->
+                    <include name="testPlayDownloadedAudiobookOffline"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

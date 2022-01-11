@@ -1,0 +1,13 @@
+{
+  "baseURI": "play-dev.bokus.com",
+  "user": [
+    {
+      "username": "kevinzhang_96@yahoo.se",
+      "password": "Hundra124"
+    },
+    {
+      "username": "kevin-dev@test.com",
+      "password": "random1"
+    }
+  ]
+}

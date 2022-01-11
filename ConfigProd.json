@@ -1,0 +1,102 @@
+{
+	"baseURI" : "play.bokus.com",
+	"dito": [
+		{
+			"username": "bokusdito@outlook.com",
+			"password": "random1",
+			"subscription": ""
+		},
+		{
+			"username": "bokusditobase@icloud.com",
+			"password": "random1",
+			"subscription": ""
+		},
+		{
+			"username": "bokusditopremium@gmail.com",
+			"password": "random1",
+			"subscription": ""
+		},
+		{
+			"username": "bokusditofamily@yahoo.com",
+			"password": "random1",
+			"subscription": ""
+		}
+	],
+	"user": [
+		{
+			"username": "abjornatest@gmail.com",
+			"password": "Hugo124",
+			"subscription": "Bas"
+		},
+		{
+			"username": "jingkvast@gmail.com",
+			"password": "Henrik124",
+			"subscription": "Bas"
+		},
+		{
+			"username": "jingkvast96@gmail.com",
+			"password": "Hannes124",
+			"subscription": ""
+		},
+		{
+			"username": "jkvast96@gmail.com",
+			"password": "Test124",
+			"subscription": ""
+		},
+		{
+			"username": "kevinzhang_96@gmail.com",
+			"password": "Bodil124",
+			"subscription": "Premium"
+		},
+		{
+			"username": "kvastjing@gmail.com",
+			"password": "Test124",
+			"subscription": ""
+		},
+		{
+			"username": "jingkvast@icloud.com",
+			"password": "Tusen124",
+			"subscription": "Bas"
+		},
+		{
+			"username": "jing_kvast@icloud.com",
+			"password": "Test124",
+			"subscription": "Bas"
+		},
+		{
+			"username": "kanzhan.96@icloud.com",
+			"password": "Bengt124",
+			"subscription": "Premium"
+		},
+		{
+			"username": "kevinzhang_96@icloud.com",
+			"password": "Test124",
+			"subscription": ""
+		},
+		{
+			"username": "jingkvast@outlook.com",
+			"password": "Bertil124",
+			"subscription": "Familj"
+		},
+		{
+			"username": "jingkvast@yahoo.com",
+			"password": "Testar124",
+			"subscription": "Bas"
+		},
+		{
+			"username": "kevinzhang_96@yahoo.se",
+			"password": "Konrad124",
+			"subscription": "Premium"
+		},
+		{
+			"username": "kevin@test.com",
+			"password": "Test124",
+			"subscription": "Bas"
+		},
+		{
+			"username": "kevin2@test.com",
+			"password": "Test124",
+			"subscription": "Premium"
+		}
+	]
+}
