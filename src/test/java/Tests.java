@@ -75,11 +75,8 @@ public class Tests extends TestHelper {
         audiobookPlayerPage().clickBookmarkIcon();
         assertCreateBookmarkPageDisplayed();
         bookmarkPage().createBookmark("Appium");
-        audiobookPlayerPage().navigateBackButton();
-        assertBookDetailViewDisplayed();
-        assertBookDetailViewPlayAudiobookButtonDisplayed();
-        bookDetailViewPage().clickMoreActions();
-        bookDetailViewPage().clickBookmark();
+        audiobookPlayerPage().clickMoreActions();
+        audiobookPlayerPage().clickBookmark();
         assertSavedBookmarkPageDisplayed();
         bookmarkPage().clickChange();
         bookmarkPage().clickRemoveBookmark();
