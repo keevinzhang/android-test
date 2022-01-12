@@ -51,8 +51,8 @@ public class TestHelper {
         browserstackOptions.put("debug", "true");
         capabilities.setCapability("bstack:options", browserstackOptions);
         capabilities.setCapability("platformName", "android");
-        capabilities.setCapability("platformVersion", "12.0");
-        capabilities.setCapability("deviceName", "Google Pixel 5");
+        capabilities.setCapability("platformVersion", "11.0");
+        capabilities.setCapability("deviceName", "Samsung Galaxy S21");
         capabilities.setCapability("app", "bs://cb27c50dc4e653ac502dbae563b57fba5cfcadbf");
 
         //capabilities.setCapability("deviceName", "10.0.0.7:5555"); //OnePlus 6T
