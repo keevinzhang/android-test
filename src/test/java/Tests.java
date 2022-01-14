@@ -97,17 +97,23 @@ public class Tests extends TestHelper {
     @Test
     public void testAudiobookPlayedAndListedInBookshelf() {
         loginPremiumAccount();
+
         assertExplorePageDisplayed();
         explorePage().clickBook();
+
         assertBookDetailViewDisplayed();
         bookDetailViewPage().clickStartBook();
+
         assertAudiobookPlayerBookCoverDisplayed();
         audiobookPlayerPage().assertAudioBookPlayed();
         String bookTitle = audiobookPlayerPage().getBookTitle();
         audiobookPlayerPage().navigateBackButton();
+
         assertBookDetailViewDisplayed();
         bookDetailViewPage().clickBookshelfTab();
+
         assertBookshelfAllPageSelected();
+        assertBookshelfAllPageListLoaded();
         Assert.assertEquals(bookTitle, bookshelfAllPage().getFirstBookTitle());
     }
 
