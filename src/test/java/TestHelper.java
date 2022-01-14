@@ -54,7 +54,7 @@ public class TestHelper {
         capabilities.setCapability("platformName", "android");
         capabilities.setCapability("platformVersion", "11.0");
         capabilities.setCapability("deviceName", "Samsung Galaxy S21");
-        capabilities.setCapability("app", "bs://cb27c50dc4e653ac502dbae563b57fba5cfcadbf");
+        capabilities.setCapability("app", "bs://cd381025fb511d9cc7ad32f60b27d48fbb243d80");
 
         //capabilities.setCapability("deviceName", "10.0.0.7:5555"); //OnePlus 6T
         //capabilities.setCapability("deviceName", "10.0.0.23:5555"); //Galaxy S10
