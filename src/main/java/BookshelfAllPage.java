@@ -63,6 +63,12 @@ public class BookshelfAllPage extends PageHelper {
                 "\"com.bokus.play:id/itemView\").childSelector(new UiSelector().text(\""+bookTitle+"\"))")).getText();
     }
 
+    public String getIndexBookTitle(int index) {
+        return driver.findElement(AppiumBy.androidUIAutomator("new UiSelector().resourceId(" +
+                "\"com.bokus.play:id/itemView\").index(" + index + ").childSelector(new UiSelector().resourceId(" +
+                "\"com.bokus.play:id/textBookTitle\"))")).getText();
+    }
+
     public boolean waitForAllListLoaded() {
         return webDriverWaitHelper(60, allListLoaded).isDisplayed();
     }
