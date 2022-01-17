@@ -30,11 +30,11 @@ public class BookshelfAllPage extends PageHelper {
 
     public void clickListsTab() { driver.findElement(listsTab).click(); }
 
-    public void clickSearchButtonBookshlefPage() { driver.findElement(searchButton).click(); }
+    public void clickSearchButtonBookshelfPage() { driver.findElement(searchButton).click(); }
 
-    public void clickSortButtonBookshlefPage() { driver.findElement(sortButton).click(); }
+    public void clickSortButtonBookshelfPage() { driver.findElement(sortButton).click(); }
 
-    public void clickFilterButtonBookshlefPage() { driver.findElement(filterButton).click(); }
+    public void clickFilterButtonBookshelfPage() { driver.findElement(filterButton).click(); }
 
     public void clickBookTitleMoreActions(String bookTitle) {
         driver.findElement(AppiumBy.androidUIAutomator("new UiSelector().className(" +
