@@ -11,6 +11,9 @@ public class BookshelfAllPage extends PageHelper {
     By listsTab = AppiumBy.accessibilityId("Listor");
 
     By searchButton = By.id("button1");
+    By searchBox = By.id("editText");
+    By clearText = By.id("iconClose");
+    By cancelSearch = By.id("btn_cancel");
     By sortButton = By.id("button2");
     By filterButton = By.id("button3");
 
@@ -31,6 +34,11 @@ public class BookshelfAllPage extends PageHelper {
     public void clickListsTab() { driver.findElement(listsTab).click(); }
 
     public void clickSearchButtonBookshelfPage() { driver.findElement(searchButton).click(); }
+
+    public void searchBookTitleBookshelfPage(String bookTitle) {
+        driver.findElement(searchButton).click();
+        driver.findElement(searchBox).sendKeys(bookTitle);
+    }
 
     public void clickSortButtonBookshelfPage() { driver.findElement(sortButton).click(); }
 
